@@ -42,8 +42,8 @@ public class DisplayMhs extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_display_mhs);
-        Toolbar toolbar = findViewById(R.id.toolbar);
-        setSupportActionBar(toolbar);
+//        Toolbar toolbar = findViewById(R.id.toolbar);
+//        setSupportActionBar(toolbar);
 
         nomhs = (EditText) findViewById(R.id.editTextNim);
         nama = (EditText) findViewById(R.id.editTextName);

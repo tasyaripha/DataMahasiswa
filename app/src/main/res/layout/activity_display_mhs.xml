@@ -12,6 +12,7 @@
         android:paddingTop="10sp"
         android:paddingRight="100sp"
         android:paddingBottom="100sp">
+
         <EditText
             android:id="@+id/editTextNim"
             android:layout_width="wrap_content"
